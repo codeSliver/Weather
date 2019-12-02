@@ -6,7 +6,7 @@ App Presents information in the view about the temperature, time, date and weath
 - User can switch between live and offline tabs to view either live data or locally stored forcast data from bundled json file.
 - While swithcing between tabs last live forcast result is persisted so that user can easily view the last live result by switching the tab and does not have to fetch data again and again.
 - When app starts it loads the live forcast for deafult city.
-- If there's no internet connectivity at the time of app start and no live forcast for Berlin is fetched. User is shown an error and when internet connectivity is restored app automatically detects the change.
+- If there's no internet connectivity at the time of app start and no live forcast for Berlin is fetched. User is shown an error.
 - App supports both landscape and portrait orientations.
 - App supports both light and dark mode.
 - App supports iOS version 13.x and above. Tested on iPhone 8 with iOS version 13.1.3, and iPhone 11 Pro  simulator.
